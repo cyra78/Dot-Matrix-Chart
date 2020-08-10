@@ -8,4 +8,4 @@ https://www.gatesnotes.com/Health/Most-Deadly-Animal-Mosquito-Week-2016?WT.mc_id
 A brief serach online didnt churn out anything that could be used immediately.
 
 ## Dependencies
-[Raphael](http://raphaeljs.com/)
+[Raphael](https://github.com/DmitryBaranovskiy/raphael)
